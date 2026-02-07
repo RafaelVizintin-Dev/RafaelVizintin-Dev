@@ -61,6 +61,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RafaelVizintin-Dev/RafaelVizintin-Dev/output/snake.svg" alt="Snake animation" />
 
-###
