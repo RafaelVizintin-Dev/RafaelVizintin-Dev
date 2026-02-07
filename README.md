@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 📍Brasil, Curitiba <br>- 📧 Email para Contato: rafaelcvizintin@gmail.com<br>- 📚 Estudando: Engenharia de Software</p>
+<p align="left">- 📍Brasil, Curitiba <br>- 📧 Email para Contato: rafaelcvizintin@gmail.com<br>- 📚 Estudando: Engenharia de Software | 1º Período</p>
 
 ###
 
