@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!--
-**RafaelVizintin-Dev/RafaelVizintin-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-da-cruz-vizintin-8178ab299/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rafa.rlk71/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafaelVizintin-Dev.RafaelVizintin-Dev&"  />
+</div>
+
+###
+
+<h1 align="center">Olá!Sejam bem vindo ao meu Github!<br>Me chamo Rafael e sou estudando de Engenharia de Software</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">- 📚 Estudando: Engenharia de Software<br>- ⚡</p>
+
+###
+
+<h3 align="left">🛠 Linguagens que eu trabalho</h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">🔥   Meu Status:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RafaelVizintin-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
